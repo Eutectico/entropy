@@ -73,7 +73,7 @@ sleep 0
 else
 cd ~
 {
-git clone https://github.com/evildevill/entropy.git
+git clone https://github.com/eutectico/entropy.git
 } &> /dev/null
 fi
 

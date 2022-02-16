@@ -4,24 +4,24 @@
 
 <p align="center">
   <a href="http://hackerwasii.blogspot.com/">
-    <img src="https://img.shields.io/badge/EvilDevill-Ivan%20Nikolsky-blue.svg">
+    <img src="https://img.shields.io/badge/eutectico-Ivan%20Nikolsky-blue.svg">
   </a>
-  <a href="https://github.com/evildevill/entropy/releases">
-    <img src="https://img.shields.io/github/release/evildevill/entropy.svg">
+  <a href="https://github.com/eutectico/entropy/releases">
+    <img src="https://img.shields.io/github/release/eutectico/entropy.svg">
   </a>
   <a href="https://wikipedia.org/wiki/Python_(programming_language)">
     <img src="https://img.shields.io/badge/language-python-blue.svg">
  </a>
-  <a href="https://github.com/evildevill/entropy/issues?q=is%3Aissue+is%3Aclosed">
-      <img src="https://img.shields.io/github/issues/evildevill/entropy.svg">
+  <a href="https://github.com/eutectico/entropy/issues?q=is%3Aissue+is%3Aclosed">
+      <img src="https://img.shields.io/github/issues/eutectico/entropy.svg">
   </a>
-  <a href="https://github.com/evildevill/entropy/wiki">
+  <a href="https://github.com/eutectico/entropy/wiki">
       <img src="https://img.shields.io/badge/wiki%20-entropy-lightgrey.svg">
  </a>
   <a href="https://twitter.com/hackerwasii">
     <img src="https://img.shields.io/badge/twitter-hackerwasii-blue.svg">
  </a>
-  <a href="https://github.com/evildevill/expcamera">
+  <a href="https://github.com/eutectico/expcamera">
     <img src="https://img.shields.io/badge/based%20on-ExpCamera-red.svg">
  </a>
 </p>
@@ -107,7 +107,7 @@ optional arguments:
 
 ## Example of attacking webcams from a file
 
-> entropy -b 2 -l iplist.txt -v
+> entropy -b 2 -i iplist.txt -v
 
 ## Example of attacking webcams through Shodan
 
